@@ -15,3 +15,9 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
+## Deploy React App on Github
+
+[Deploying a React App* to GitHub Pages](https://github.com/gitname/react-gh-pages)
+
+* created using `create-react-app`
+
